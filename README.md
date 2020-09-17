@@ -1,6 +1,6 @@
-# template-scala
+# scala-graph
 
-> MakeNowJust-Labo's Scala project template.
+> Graph abstraction and some algorithms implementations in Scala.
 
 ## License
 
