@@ -7,8 +7,7 @@ import scala.collection.mutable
 import syntax._
 import util.UnionFind
 
-/**
-  * Implementation of Kruskal's algorithm.
+/** Implementation of Kruskal's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Kruskal's_algorithm]]
   */

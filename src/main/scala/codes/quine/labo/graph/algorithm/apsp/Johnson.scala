@@ -6,8 +6,7 @@ import scala.collection.mutable
 
 import util.{MapLabelGraph, ReachableGraph}
 
-/**
-  * Implementation of Johnson's algorithm.
+/** Implementation of Johnson's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Johnson's_algorithm]]
   */

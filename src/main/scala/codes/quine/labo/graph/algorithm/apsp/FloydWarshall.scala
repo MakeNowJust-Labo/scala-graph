@@ -6,8 +6,7 @@ import scala.collection.mutable
 
 import syntax._
 
-/**
-  * Implementation of Floyd-Warshall algorithm.
+/** Implementation of Floyd-Warshall algorithm.
   *
   * Note that this algorithm may return invalid result when a graph has negative weight cycle.
   *

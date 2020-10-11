@@ -6,8 +6,7 @@ import scala.collection.mutable
 
 import syntax._
 
-/**
-  * Implementation of Prim's algorithm.
+/** Implementation of Prim's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Prim's_algorithm]]
   */

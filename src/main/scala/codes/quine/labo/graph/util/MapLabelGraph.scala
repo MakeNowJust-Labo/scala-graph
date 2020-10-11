@@ -3,8 +3,7 @@ package util
 
 import syntax._
 
-/**
-  * MapLabelGraph is wrapper of graph that labels of its edges are mapped by the given function.
+/** MapLabelGraph is wrapper of graph that labels of its edges are mapped by the given function.
   *
   * This wrapper is used by some algorithms (e.g. Johnson's algorithm).
   *

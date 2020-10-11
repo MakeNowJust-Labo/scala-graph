@@ -4,8 +4,7 @@ package sssp
 
 import scala.collection.mutable
 
-/**
-  * Implementation of Dijkstra's algorithm.
+/** Implementation of Dijkstra's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Dijkstra's_algorithm]]
   */

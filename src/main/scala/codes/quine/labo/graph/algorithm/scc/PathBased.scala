@@ -4,8 +4,7 @@ package scc
 
 import scala.collection.mutable
 
-/**
-  * Implementation of path-based SCC algorithm.
+/** Implementation of path-based SCC algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Path-based_strong_component_algorithm]]
   */

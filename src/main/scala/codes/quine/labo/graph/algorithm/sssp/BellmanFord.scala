@@ -4,8 +4,7 @@ package sssp
 
 import scala.collection.mutable
 
-/**
-  * Implementation of Bellman-Ford algorithm.
+/** Implementation of Bellman-Ford algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Bellman–Ford_algorithm]]
   */
