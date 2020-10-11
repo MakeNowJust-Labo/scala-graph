@@ -3,8 +3,7 @@ package util
 
 import syntax._
 
-/**
-  * ReachableGraph is wrapper of a graph with a new vertex which is reachable to any other vertices.
+/** ReachableGraph is wrapper of a graph with a new vertex which is reachable to any other vertices.
   *
   * This wrapper is used by some algorithms (e.g. Johnson's algorithm).
   *

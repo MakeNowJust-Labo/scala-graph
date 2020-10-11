@@ -4,8 +4,7 @@ package scc
 
 import scala.collection.mutable
 
-/**
-  * Implementation of Kosaraju's algorithm.
+/** Implementation of Kosaraju's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Kosaraju's_algorithm]]
   */

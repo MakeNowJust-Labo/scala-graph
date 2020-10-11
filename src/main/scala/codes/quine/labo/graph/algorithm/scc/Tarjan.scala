@@ -4,8 +4,7 @@ package scc
 
 import scala.collection.mutable
 
-/**
-  * Implementation of Tarjan's algorithm.
+/** Implementation of Tarjan's algorithm.
   *
   * @see [[https://en.wikipedia.org/wiki/Tarjan's_strongly_connected_components_algorithm]]
   */

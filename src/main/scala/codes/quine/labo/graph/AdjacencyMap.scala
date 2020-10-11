@@ -4,8 +4,7 @@ import scala.collection.mutable
 
 import syntax._
 
-/**
-  * AdjacencyMap is base class of graph represented by adjacency map.
+/** AdjacencyMap is base class of graph represented by adjacency map.
   *
   * An adjacency map is data structure that represents a graph with edge labels.
   * If it has no label (or all labels share the same value), it is called adjacency list simply.

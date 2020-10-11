@@ -4,8 +4,7 @@ import scala.collection.mutable
 
 import syntax._
 
-/**
-  * MutualAdjacencyMap is bi-directional traversible variant of DirectedAdjacencyMap.
+/** MutualAdjacencyMap is bi-directional traversible variant of DirectedAdjacencyMap.
   *
   * It holds not only out-going adjacency vertices, but also in-coming adjacency vertices.
   * So, it can execute [[Graph#in]] method efficiently.

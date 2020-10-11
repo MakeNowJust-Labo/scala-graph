@@ -4,8 +4,7 @@ import scala.collection.mutable
 
 import syntax._
 
-/**
-  * AdjacencyMatrix is base class of graph represented by adjacency matrix.
+/** AdjacencyMatrix is base class of graph represented by adjacency matrix.
   *
   * An adjacency matrix is data structure that represents a graph.
   *
